@@ -39,9 +39,9 @@ Para la gestion del código fuente se utilizó GitHub, una plataforma de alojami
 Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
 El repositorio se estructuró de la siguiente manera:
 
-* Organización en Github: https://github.com/WASwarm1
-* Repositorio del informe final: https://github.com/WASwarm1/final-report
-* Repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Page
+* Organización en Github: [https://github.com/WASwarm1](https://github.com/WASwarm1)
+* Repositorio de el informe: [https://github.com/WASwarm1/chambapro-report](https://github.com/WASwarm1/chambapro-report)  
+* Repositorio de la Landing Page: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)
 
 #### Modelo de ramificación: GitFlow
 
@@ -144,8 +144,8 @@ un servicio de alojamiento web estático proporcionado por GitHub.
 3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
 4. **Despliegue automático**: Cada vez que se realiza un push a la rama `main`, GitHub Pages actualiza automáticamente el sitio web.
 
-**Repositorio de la Landing Page**: https://github.com/WASwarm1/Landing-Page
-**URL de la Landing Page desplegada**: https://waswarm1.github.io/Landing-Page/
+**Repositorio de la Landing Page**: [https://github.com/WASwarm1/chambapro-landing-Page](https://github.com/WASwarm1/chambapro-landing-page)  
+**URL de la Landing Page desplegada**: [https://waswarm1.github.io/chambapro-landing-page/](https://waswarm1.github.io/chambapro-landing-page/)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -217,7 +217,6 @@ fluida y responsiva.</td>
 </tr>
 </table>
 
-
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
@@ -262,7 +261,7 @@ fluida y responsiva.</td>
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación. 
 Estos commits provienen del repositorio de la landing de la organización de GitHub.
 
-Enlace al repositorio de la Landing Page: https://github.com/WASwarm1/Landing-Page
+Enlace al repositorio de la Landing Page: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)
 
 | Repository           | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited on (Date) |
 |----------------------|--------|-----------|-------------------------------------|---------------------|--------------------|
@@ -296,13 +295,13 @@ El desarrollo de servicios backend y funcionalidades adicionales está planifica
 La landing page fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
 El proceso de despliegue fue el siguiente:
 
-1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub: https://github.com/WASwarm1/Landing-Page
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)
 2. **Desarrollo del sitio**: El código fuente de la landing page se desarrolló y organizó en el repositorio.
 3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
 4. **Verificación del despliegue**: Se verificó que la landing page estuviera accesible públicamente y funcionara correctamente 
 en diferentes dispositivos y navegadores en la siguiente URL: 
 
-**Landing Page desplegada:** https://waswarm1.github.io/Landing-Page/
+**Landing Page desplegada:** [https://waswarm1.github.io/chambapro-landing-page/](https://waswarm1.github.io/chambapro-landing-page/)
 
 #### Evidencia de despliegue:
 ![Evidencia_Deployment.png](../../assets/chapter5/Evidencia_Deployment.png)
@@ -421,7 +420,7 @@ historial de servicios, agenda de reservas y sistema de reseñas.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-Enlace al repositorio del frontend: https://github.com/WASwarm1/chambapro-frontend
+Enlace al repositorio del frontend: [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)
 
 | Repository                   | Branch | Commit Id | Commit Message                                                                        | Commit Message Body | Commited on (Date) |
 |------------------------------|--------|-----------|---------------------------------------------------------------------------------------|---------------------|--------------------|
@@ -459,7 +458,7 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 4. **Configuración de despliegue**: Se configuró Vercel para desplegar automáticamente el frontend cada vez que se realizara un push a la rama `main`.
 5. **Verificación del despliegue**: Se verificó que la aplicación estuviera accesible públicamente y funcionara correctamente en diferentes dispositivos y navegadores.
 
-**Repositorio:** https://github.com/WASwarm1/chambapro-frontend
+**Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)
 **URL desplegada:**
 - Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
 - Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
@@ -503,7 +502,7 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 | Título                  | Descripción                                      | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video de exposición TB1 |                                                  | [Exposición TB1](https://acortar.link/YlsZmz)                                                                                                                                                                        
+| Video de exposición TB1 |                                                  | [Exposición TB1](https://upcedupe-my.sharepoint.com/personal/u202310003_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310003%5Fupc%5Fedu%5Fpe%2FDocuments%2FApp%20Web%2Fupc%2Dpre%2D202510%2D1asi0730%2D7426%2DWASwarm%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edd12a0a4%2D757f%2D4213%2Db76f%2D174ce94a7d11)                                                                                                                                                                        
 | Video de exposición TP1 |                                                  | [Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EX7HCAaRX8xKi_0TJxe4qdABjvO47JqAI3R5IAC7OvksTg)                                                                                                                                                 
 | Video de entrevistas    | Entrevistas realizadas a los clientes y tecnicos | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EVelmzXnBP5IpMLaPIZV24wBZc5bykWiRzXUhUNXzbUFzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2U57tJ) |                                                                                                                                        
 
