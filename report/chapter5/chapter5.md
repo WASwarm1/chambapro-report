@@ -144,7 +144,7 @@ un servicio de alojamiento web estático proporcionado por GitHub.
 3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
 4. **Despliegue automático**: Cada vez que se realiza un push a la rama `main`, GitHub Pages actualiza automáticamente el sitio web.
 
-**Repositorio de la Landing Page**: [https://github.com/WASwarm1/chambapro-landing-Page](https://github.com/WASwarm1/chambapro-landing-page)  
+**Repositorio de la Landing Page**: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)  
 **URL de la Landing Page desplegada**: [https://waswarm1.github.io/chambapro-landing-page/](https://waswarm1.github.io/chambapro-landing-page/)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -458,7 +458,7 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 4. **Configuración de despliegue**: Se configuró Vercel para desplegar automáticamente el frontend cada vez que se realizara un push a la rama `main`.
 5. **Verificación del despliegue**: Se verificó que la aplicación estuviera accesible públicamente y funcionara correctamente en diferentes dispositivos y navegadores.
 
-**Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)
+**Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)  
 **URL desplegada:**
 - Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
 - Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
