@@ -261,7 +261,7 @@ fluida y responsiva.</td>
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación. 
 Estos commits provienen del repositorio de la landing de la organización de GitHub.
 
-Enlace al repositorio de la Landing Page: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)
+**Enlace al repositorio de la Landing Page:** [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)
 
 | Repository           | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited on (Date) |
 |----------------------|--------|-----------|-------------------------------------|---------------------|--------------------|
@@ -420,7 +420,7 @@ historial de servicios, agenda de reservas y sistema de reseñas.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-Enlace al repositorio del frontend: [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)
+**Enlace al repositorio del frontend:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)  
 
 | Repository                   | Branch | Commit Id | Commit Message                                                                        | Commit Message Body | Commited on (Date) |
 |------------------------------|--------|-----------|---------------------------------------------------------------------------------------|---------------------|--------------------|
@@ -502,8 +502,8 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 | Título                  | Descripción                                      | Enlace                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video de exposición TB1 |                                                  | [Exposición TB1](https://upcedupe-my.sharepoint.com/personal/u202310003_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310003%5Fupc%5Fedu%5Fpe%2FDocuments%2FApp%20Web%2Fupc%2Dpre%2D202510%2D1asi0730%2D7426%2DWASwarm%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edd12a0a4%2D757f%2D4213%2Db76f%2D174ce94a7d11)                                                                                                                                                                        
-| Video de exposición TP1 |                                                  | [Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EX7HCAaRX8xKi_0TJxe4qdABjvO47JqAI3R5IAC7OvksTg)                                                                                                                                                 
+| Video de exposición TB1 | Exposición grupal de la primera entrega desarrollada | [Exposición TB1](https://upcedupe-my.sharepoint.com/personal/u202310003_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310003%5Fupc%5Fedu%5Fpe%2FDocuments%2FApp%20Web%2Fupc%2Dpre%2D202510%2D1asi0730%2D7426%2DWASwarm%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edd12a0a4%2D757f%2D4213%2Db76f%2D174ce94a7d11)                                                                                                                                                                        
+| Video de exposición TP1 | Exposición grupal de la segunda entrega desarrollada | [Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EX7HCAaRX8xKi_0TJxe4qdABjvO47JqAI3R5IAC7OvksTg)                                                                                                                                                 
 | Video de entrevistas    | Entrevistas realizadas a los clientes y tecnicos | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EVelmzXnBP5IpMLaPIZV24wBZc5bykWiRzXUhUNXzbUFzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2U57tJ) |                                                                                                                                        
 
 ### UX/UI:
