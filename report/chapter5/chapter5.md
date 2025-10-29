@@ -477,7 +477,72 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ![Team_Collaboration_Sprint2.png](../../assets/chapter5/Team_Collaboration_Sprint2.png)
 
+### 5.2.3 Sprint 3
+#### 5.2.3.1.Spring Planning 3.
 
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">------</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">------</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">via Google Meets</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Werner Lang</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">---</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  3 Review Summary</td>
+    <td colspan="8">----</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">------------------------</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">
+-------</td>
+</tr>
+</table> 
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1:  (L) /  (C) | Aspect 2:   Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
+|------------------------------------|-----------------|-----------------------|-------------------------------------------|------------------------------------------|
+| Lang Nassi, Werner Khalil          | 00WernerLang    |                       |                                           |                                          |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  |                       |                                           |                                          |
+| Ortega Muñoz, Saúl                 | Ss1lent10       |                       |                                           |                                          |
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  |                       |                                           |                                          |
+| Duran Santander, Emilia            | emiliadurans    |                       |                                           |                                          |
+
+
+#### 5.2.3.3.Sprint Backlog 3.
+
+#### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
