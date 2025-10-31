@@ -579,8 +579,11 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ### GITHUB:
 
-| Título               | Descripción                              | Enlace                      |
-|----------------------|------------------------------------------|-----------------------------|
-| Reporte del proyecto | Enlace al repositorio del reporte        | [Reporte](https://github.com/WASwarm1/chambapro-report) |
-| Landing Page         | Enlace al repositorio de la landing page | [Landing Page](https://github.com/WASwarm1/chambapro-landing-page) |
+| Título               | Descripción                              | Enlace                                                                                                     |
+|----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Reporte del proyecto | Enlace al repositorio del reporte        | [Reporte](https://github.com/WASwarm1/chambapro-report)                                                    |
+| Landing Page         | Enlace al repositorio de la landing page | [Landing Page](https://github.com/WASwarm1/chambapro-landing-page)                                         |
 | Fillout              | Enlace a las respuestas del fillout      | [Fillout](https://build.fillout.com/join/Jup4WMG5GJc6PEuItGJeYvYmLTemgHXL4XbH3iYA2sUGX0tDFkD0Cti4pof2pCV6) |
+| Frontend             | Enlace al repositorio del frontend       | [Frontend](https://github.com/WASwarm1/chambapro-frontend)                                                 |
+| Backend              | Enlace al repositorio del backend        | [Backend](https://github.com/WASwarm1/chambapro-platform)                                                  |
+
