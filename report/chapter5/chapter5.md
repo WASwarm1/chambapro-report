@@ -490,11 +490,11 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">------</td>
+    <td colspan="8">2025-11-10</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
-    <td colspan="8">------</td>
+    <td colspan="8">12:00</td>
   </tr>
   <tr>
     <td colspan="5">Location</td>
@@ -505,15 +505,15 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">---</td>
+    <td colspan="8">Werner Khalil Lang Nassi, Jorge Francisco Taipe Sangama, Matias Gabriel Armestar Heredia</td>
 </tr>
 <tr>
     <td colspan="5">Sprint  3 Review Summary</td>
-    <td colspan="8">----</td>
+    <td colspan="8">En este tercer sprint, se planificaron las tareas a realizar para el desarrollo del backend, al igual que establecer fechas para la entrga con la finalidad de reservar tiempo para el despliegue. </td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Retrospective Summary</td>
-    <td colspan="8">------------------------</td>
+    <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del backend.</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
@@ -521,7 +521,10 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
     <td colspan="8">
--------</td>
+Nos enfocaremos en desarrollar y desplegar el backend de ChambaPro, asegurando una integración fluida con el frontend existente.
+Durante este sprint, implementaremos las APIs necesarias para manejar la lógica de negocio, la gestión de datos y la comunicación entre el frontend y el backend.
+Creemos que al completar este sprint, ChambaPro tendrá una arquitectura completa y funcional que permitirá a los usuarios interactuar con la plataforma de manera efectiva.
+</td>
 </tr>
 </table> 
 
@@ -531,9 +534,7 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 |------------------------------------|-----------------|-----------------------|-------------------------------------------|------------------------------------------|
 | Lang Nassi, Werner Khalil          | 00WernerLang    |                       |                                           |                                          |
 | Jorge Franciscoz Taipe Sangama     | CamotinFurious  |                       |                                           |                                          |
-| Ortega Muñoz, Saúl                 | Ss1lent10       |                       |                                           |                                          |
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  |                       |                                           |                                          |
-| Duran Santander, Emilia            | emiliadurans    |                       |                                           |                                          |
 
 
 #### 5.2.3.3.Sprint Backlog 3.
