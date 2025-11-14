@@ -606,6 +606,17 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 3 para el desarrollo del backend de ChambaPro.
+
+* **Werner Lang:** Implementó IAM, reservas y servicios en el backend.
+* **Jorge Taipe:** Implementó reseñas en el backend.
+* **Matias Armestar:** Implementó usuarios y i18n en el backend.
+
+Repositorio del backend: [Backend](https://github.com/WASwarm1/chambapro-platform)
+
+![firefox_JMLiNK32TI.jpg](../../assets/chapter5/firefox_JMLiNK32TI.jpg)
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
