@@ -244,17 +244,21 @@ amplia de la arquitectura de software.
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles 
 sobre las tecnologías utilizadas e implementaciones específicas.
 
-Diagrama de componente de lista de trabajos:
+Diagrama de componente de reviews:
 
-![Work_Diagram.png](../../assets/chapter4/Work_Diagram.png)
+![ChambaPro-Page-2.png](../../assets/chapter4/ChambaPro-Page-2.png)
 
 Diagrama de componente de manejo de usuarios:
 
 ![User_Diagram.png](../../assets/chapter4/User_Diagram.png)
 
-Diagrama de componente de analiticas:
+Diagrama de componente de servicios:
 
-![Analytics_Diagram.png](../../assets/chapter4/Analytics_Diagram.png)
+![ChambaPro-Copy of Copy of Page-2.png](../../assets/chapter4/ChambaPro-Copy%20of%20Copy%20of%20Page-2.png)
+
+Diagrama de componente de reservas:
+
+![ChambaPro-Copy of Copy of Copy of Page-2.png](../../assets/chapter4/ChambaPro-Copy%20of%20Copy%20of%20Copy%20of%20Page-2.png)
 
 ## 4.7. Software Object-Oriented Design.
 
