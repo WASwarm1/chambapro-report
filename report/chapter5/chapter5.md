@@ -530,11 +530,11 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
-| Team member (LastName, First Name) | GitHub UserName | Aspect 1:  (L) /  (C) | Aspect 2:   Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
-|------------------------------------|-----------------|-----------------------|-------------------------------------------|------------------------------------------|
-| Lang Nassi, Werner Khalil          | 00WernerLang    |                       |                                           |                                          |
-| Jorge Franciscoz Taipe Sangama     | CamotinFurious  |                       |                                           |                                          |
-| Armestar Heredia, Matias Gabriel   | MatiasArmestar  |                       |                                           |                                          |
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1:  IAM | Aspect 2:   User | Aspect 3: Reservation | Aspect 4: Review | Aspect 5: Service | 
+|------------------------------------|-----------------|----------------|------------------|-----------------------|------------------|-------------------|
+| Lang Nassi, Werner Khalil          | 00WernerLang    | L              | C                | L                     | C                | L                 |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  | C              | C                | C                     | L                | C                 |   
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  | C              | L                | C                     | C                | C                 | 
 
 
 #### 5.2.3.3.Sprint Backlog 3.
