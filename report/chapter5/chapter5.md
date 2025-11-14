@@ -540,6 +540,68 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 #### 5.2.3.3.Sprint Backlog 3.
 
 #### 5.2.3.4.Development Evidence for Sprint Review.
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del backend de la organización de GitHub.
+
+**Enlace al repositorio del backend:** [Backend](https://github.com/WASwarm1/chambapro-platform)
+
+| Repository                   | Branch   | Commit Id | Commit Message                                                                   | Commit Message Body | Commited on (Date) |
+|------------------------------|----------|-----------|----------------------------------------------------------------------------------|---------------------|--------------------|
+| WASwarm1/chambapro-platform  | main     | 8ba2991   | Initial commit                                                                   |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | b974c05   | feat(iam): add user aggregate and UserType value object                          |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 2e480db   | feat(iam): add commands                                                          |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 3291446   | feat(iam): add queries                                                           |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 4268818   | feat(iam): add User Repository interface                                         |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 565071f   | feat(iam): add services                                                          |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 086f0d1   | feat(iam): add User Command Service                                              |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | c5ab8a0   | feat(iam): add User Query Service                                                |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 42b3f50   | feat(iam): add TokenService                                                      |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 33b3d73   | feat(iam): add user configuration                                                |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | a943cc7   | feat(iam): add user repository                                                   |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | eac55a0   | feat(iam): add Authorization                                                     |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 2546867   | feat(iam): add RequestAuthorizationMiddleware                                    |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | a0c47d8   | feat(iam): add extensions                                                        |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 2dca28d   | feat(iam): add resources                                                         |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | b65532b   | feat(iam): add transforms                                                        |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 84ad101   | feat(iam): feat(iam): add Controllers                                            |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 5e992e3   | feat(iam): add hashing service                                                   |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | iam      | 9cf9b95   | feat(iam): add iam in program                                                    |                     | 16/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | fd7bbb8   | feat(reserve): add reserve aggregate                                             |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 1541dcb   | feat(reserve): add model layer                                                   |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 5b27f0e   | feat(reserve): add interface for command and query services                      |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 708c71b   | feat(reserve): add interface for repository                                      |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 86fb492   | feat(reserve): add repository                                                    |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 2e0ddab   | feat(reserve): add query service                                                 |                     | 27/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | 1d0e2a0   | feat(reserve): add command service                                               |                     | 28/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | af400df   | feat(reserve): add resources                                                     |                     | 28/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | f821472   | feat(reserve): add transforms                                                    |                     | 28/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | d35c03e   | feat(reserve): add Controller                                                    |                     | 28/10/2025         |
+| WASwarm1/chambapro-platform  | reserve  | b67040e   | feat(reserve): add reserve to dbcontext and program to ensure functionality      |                     | 28/10/2025         |
+| WASwarm1/chambapro-platform  | user     | b6734fb   | feat(user): add application layer                                                |                     | 01/11/2025         |
+| WASwarm1/chambapro-platform  | user     | c8d7e3b   | feat(user): add domain layer                                                     |                     | 01/11/2025         |
+| WASwarm1/chambapro-platform  | user     | 75f2239   | feat(user): add infrastructure layer                                             |                     | 01/11/2025         |
+| WASwarm1/chambapro-platform  | user     | 60aa393   | feat(user): add interfaces layer                                                 |                     | 01/11/2025         |
+| WASwarm1/chambapro-platform  | review   | 2420362   | feat(review):add Application layer                                               |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | review   | 517fb8c   | feat(review):add Interfaces layer                                                |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | review   | 0e8b774   | feat(review):add Domain layer                                                    |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | review   | 719eca0   | feat(review):add Infrastructure layer                                            |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 2211ad2   | feat(user): add User to DbContext and Program.cs                                 |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 9dba250   | feat(review): add reviews to dbcontext                                           |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 90836d7   | feat(iam): add iam to dbcontext                                                  |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | services | b84492a   | feat(services): add domain layer                                                 |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | services | 5294af6   | feat(services): add Command and query service                                    |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | services | d2b7339   | feat(services): add service repository                                           |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | services | 06c1335   | feat(services): add service resource                                             |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | services | 62766b3   | feat(services): add interfaces layer                                             |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 19cf685   | feat(services): add service to dbcontext                                         |                     | 03/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 03afffb   | feat(reserve): add business rules to reservation                                 |                     | 05/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | f1c1239   | feat(iam): add business rules to iam                                             |                     | 05/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | d033cce   | feat: add i18n                                                                   |                     | 07/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | f636ecf   | feat: implement internationalization for controllers (Reservation, Review, User) |                     | 07/11/2025         |
+| WASwarm1/chambapro-platform  | dev      | 2eee77f   | feat: add i18n (csproj)                                                          |                     | 07/11/2025         |
+
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
