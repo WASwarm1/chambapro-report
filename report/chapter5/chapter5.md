@@ -537,7 +537,6 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  | C              | L                | C                     | C                | C                 | 
 
 
-#### 5.2.3.3.Sprint Backlog 3.
 
 #### 5.2.3.3.Sprint Backlog 3.
 
@@ -745,6 +744,9 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+En este sprint se implementaron las siguientes funcionalidades en el frontend de ChambaPro:
+![Auth_Cliente.png](../../assets/chapter5/Auth_Cliente.png)
+![Auth_CTecnico.png](../../assets/chapter5/Auth_CTecnico.png)
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 Durante el sprint 3, se utilizó Swagger para documentar los servicios implementados en el backend de ChambaPro. A continuación, se presentan capturas de pantalla de la documentación generada por Swagger para los principales servicios desarrollados en este sprint.
@@ -780,6 +782,31 @@ Durante el sprint 3, se utilizó Swagger para documentar los servicios implement
 |                              | POST        | /api/v1/review                                       | Crea una nueva reseña para un técnico con calificación (1-5) y comentario del cliente. Valida que el rating esté en el rango válido.                            |
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+**Frontend Web Application:**
+
+El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de despliegue optimizada para aplicaciones frontend.
+
+**Pasos para el despliegue:**
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub llamado `chambapro-frontend`.
+2. **Desarrollo del frontend**: El código fuente del frontend se desarrolló y organizó en el repositorio.
+3. **Conexión con Vercel**: Se conectó el repositorio de GitHub con Vercel para habilitar despliegues automáticos.
+4. **Configuración de despliegue**: Se configuró Vercel para desplegar automáticamente el frontend cada vez que se realizara un push a la rama `main`.
+5. **Verificación del despliegue**: Se verificó que la aplicación estuviera accesible públicamente y funcionara correctamente en diferentes dispositivos y navegadores.
+
+**Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)  
+**URL desplegada:**
+- Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
+- Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
+
+**Restful API**
+Los servicios backend serán desarrollados en Java (Spring Boot) más adelante.
+
+**Backend Web Service**
+El backend se desplegó utilizando la plataforma Azure App Service.
+
+![Software_Deployment_Evidence_Azure.png](../../assets/chapter5/Software_Deployment_Evidence_Azure.png)
+
+![Github_Evidence_Deployment.png](../../assets/chapter5/Github_Evidence_Deployment.png)
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 3 para el desarrollo del backend de ChambaPro.
