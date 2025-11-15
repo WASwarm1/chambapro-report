@@ -798,11 +798,21 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 - Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
 - Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
 
-**Restful API**
-Los servicios backend serán desarrollados en Java (Spring Boot) más adelante.
-
 **Backend Web Service**
+
 El backend se desplegó utilizando la plataforma Azure App Service.
+Pasos de despliegue:
+
+
+1. Verificar que el proyecto esté completado en la rama main.
+2. Crear una cuenta en Azure e iniciar sesión mediante Azure CLI (az login).
+3. Crear un grupo de recursos en Azure desde el portal o CLI.
+4. Crear un App Service Plan con sistema operativo Windows.
+5. Asegúrate de que el "Deployment Mode" (Modo de despliegue) esté configurado como "Framework-dependent" y que la versión de .NET sea la correcta (ej. .NET 8.0).
+6. Probar el servicio en la URL pública proporcionada por Azure App Service.
+
+**Respositorio**   https://github.com/WASwarm1/chambapro-platform
+URL DE
 
 ![Software_Deployment_Evidence_Azure.png](../../assets/chapter5/Software_Deployment_Evidence_Azure.png)
 
