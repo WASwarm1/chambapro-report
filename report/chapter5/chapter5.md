@@ -812,7 +812,12 @@ Pasos de despliegue:
 6. Probar el servicio en la URL pública proporcionada por Azure App Service.
 
 **Respositorio**   https://github.com/WASwarm1/chambapro-platform
-URL DE
+
+URL deployado: https://wa-swarm-2025-20-d3hac9guatdxfyby.brazilsouth-01.azurewebsites.net/swagger/index.html
+
+Url deployado: https://wasarwm-chambapro.com/tos
+
+
 
 ![Software_Deployment_Evidence_Azure.png](../../assets/chapter5/Software_Deployment_Evidence_Azure.png)
 
