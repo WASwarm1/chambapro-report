@@ -8,7 +8,7 @@
 ## NRC: 7426
 ## INFORME TB2
 ## START UP: WASwarm
-## PRODUCTO: 
+## PRODUCTO: ChambaPro
 
 ## INTEGRANTES:
 | Apellidos y Nombres              | Código de Alumno |
@@ -28,6 +28,7 @@ Ciclo: 2025-20
 | 0.1     | 2025-08-25 | Lang Nassi, Werner Khalil                                                                                                                             | Creación del documento y estructura inicial         |
 | 1.0     | 2025-09-18 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel - Durán Santander, Emilia Mercedes | Desarrollo del Informe y Landing Page               |
 | 2.0     | 2025-10-08 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel                                    | Actualización del Informe y desarrollo del Frontend |
+| 3.0     | 2025-11-15 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Armestar Heredia, Matias Gabriel                                                         | Actualización del Informe y desarrollo del Backend  |
 
 # Project Report Collaboration Insights
 #### Repositorio del informe del proyecto 
