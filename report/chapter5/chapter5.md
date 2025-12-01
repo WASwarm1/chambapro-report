@@ -461,7 +461,7 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 
 **Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)  
 **URL desplegada:**
-- Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
+- Cliente: https://chambapro-frontend-iota.vercel.app/client/tech-search
 - Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
 
 ![DeployFront.png](../../assets/chapter5/DeployFront.png)
@@ -797,7 +797,7 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 
 **Repositorio:** [https://github.com/WASwarm1/chambapro-frontend](https://github.com/WASwarm1/chambapro-frontend)  
 **URL desplegada:**
-- Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
+- Cliente: https://chambapro-frontend-iota.vercel.app/client/tech-search
 - Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
 
 **Backend Web Service**
@@ -816,7 +816,7 @@ Pasos de despliegue:
 
 URL deployado: https://wa-swarm-2025-20-d3hac9guatdxfyby.brazilsouth-01.azurewebsites.net/swagger/index.html
 
-Url deployado: https://wasarwm-chambapro.com/tos
+URL deployado: https://wasarwm-chambapro.com/tos
 
 ![Software_Deployment_Evidence_Azure.png](../../assets/chapter5/Software_Deployment_Evidence_Azure.png)
 
@@ -861,6 +861,13 @@ Repositorio del backend: [Backend](https://github.com/WASwarm1/chambapro-platfor
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+
+Como último artefacto del proyecto desarrollado, se ha desarrollado un video con orientación promocional e informativa, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.  
+
+![chambapro_about_the_product_thumbnail.png](../../assets/chapter5/chambapro_about_the_product_thumbnail.png)  
+
+**URL en YouTube:** [YouTube](https://youtu.be/8R371itvf10)  
+**URL en OneDrive:** [OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBxDtkq_LJeQqGi61YM0xASAZyxztnU9zLZuY4n8SRXs_A)
 
 ## Conclusiones.
 
