@@ -1,11 +1,11 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1. Software Configuration Management.
+## 5.1. Software Configuration Management
 
 En esta sección se describen las herramientas y configuraciones utilizadas para gestionar el desarrollo del software, 
 incluyendo el entorno de desarrollo, el control de versiones, las convenciones de estilo de código y la configuración del despliegue.
 
-### 5.1.1. Software Development Environment Configuration.
+### 5.1.1. Software Development Environment Configuration
 
 En esta sección, se incluirá los productos de software que se usaron en el proyecto. Los enlaces a cada una de las 
 herramientas se encuentran disponibles en los anexos.
@@ -33,7 +33,7 @@ responsabilidades y hacer seguimiento del progreso del proyecto.
 * GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
 * Netlify: Plataforma de despliegue y alojamiento para sitios web estáticos y aplicaciones web modernas.
 
-### 5.1.2. Source Code Management.
+### 5.1.2. Source Code Management
 
 Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git.
 Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
@@ -81,7 +81,7 @@ El prefijo de categoría se define de la siguiente forma:
 * `test`: Adding missing tests or correcting existing tests
 * `chore`: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions
 
 Se adoptaron las siguientes guías y convenciones de estilo de código para asegurar la calidad y consistencia del código fuente, el idioma
 estándar para el desarrollo fue el **inglés**.
@@ -127,7 +127,7 @@ Se usan **sustantivos** para clases y **verbos** para funciones.
 * Usar `camelCase` para nombres de variables y parámetros.
 * Indentación de 4 espacios.
 
-### 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration
 
 En esta sección se describen las configuraciones y herramientas utilizadas para el despliegue del software desarrollado.
 El objetivo es asegurar que el proceso de despliegue sea eficiente, automatizado y confiable.
@@ -147,7 +147,7 @@ un servicio de alojamiento web estático proporcionado por GitHub.
 **Repositorio de la Landing Page**: [https://github.com/WASwarm1/chambapro-landing-page](https://github.com/WASwarm1/chambapro-landing-page)  
 **URL de la Landing Page desplegada**: [https://waswarm1.github.io/chambapro-landing-page/](https://waswarm1.github.io/chambapro-landing-page/)
 
-## 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation
 
 En esta sección se detalla la implementación de todos los estables de ChambaPro.
 
@@ -168,7 +168,7 @@ La landing page incluye las siguientes secciones principales:
 
 ### 5.2.1. Sprint 1
 
-#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1
 
 <table>
 <tr>
@@ -217,7 +217,7 @@ fluida y responsiva.</td>
 </tr>
 </table>
 
-#### 5.2.1.2. Aspect Leaders and Collaborators.
+#### 5.2.1.2. Aspect Leaders and Collaborators
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: Landing Page Leader (L) / Collaborator (C) | Aspect 2: Diseños Figma: Leader (L) / Collaborator (C) | Aspect 3: Reporte (L) / Collaborator (C) |
 |------------------------------------|-----------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
@@ -227,7 +227,7 @@ fluida y responsiva.</td>
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L                                                    | C                                                      | L                                        |
 | Duran Santander, Emilia            | emiliadurans    | C                                                    | L                                                      | C                                        |
 
-#### 5.2.1.3. Sprint Backlog 1.
+#### 5.2.1.3. Sprint Backlog 1
 
 ![Trello_Sprint1.png](../../assets/chapter5/Trello_Sprint1.png)
 
@@ -256,6 +256,7 @@ fluida y responsiva.</td>
 |    US07    |     Ver botón de contacto       | W19 |    Recopilar información contacto    |       Definir canales de contacto: email, teléfono, formulario       |         1          | Matais Armestar  |                      Done                      |
 |            |                                 | W20 |      Diseñar footer de contacto      |      Crear diseño del pie de página con información de contacto      |         2          | Matais Armestar  |                      Done                      |
 |            |                                 | W21 |   Desarrollar sección de contacto    |    Implementar footer completo con todos los enlaces adicionales     |         2          |   Werner Lang    |                      Done                      |
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación. 
@@ -284,13 +285,13 @@ El diseño se basó en los wireframes y mock-ups creados durante la fase de dise
 ![OurTeam_LandingPage.png](../../assets/chapter5/OurTeam_LandingPage.png)
 ![ForTechnicians_LandingPage.png](../../assets/chapter5/ForTechnicians_LandingPage.png)
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Debido a que el sprint estuvo únicamente enfocado en el desarrollo de la Landing Page, no se desarrollaron servicios adicionales.
 Aunque no se implementaron servicios en este sprint, la landing page sirve como una plataforma informativa crucial para atraer y convertir usuarios potenciales.
 El desarrollo de servicios backend y funcionalidades adicionales está planificado para futuros sprints, donde se detallará la documentación correspondiente.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 La landing page fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
 El proceso de despliegue fue el siguiente:
@@ -306,7 +307,7 @@ en diferentes dispositivos y navegadores en la siguiente URL:
 #### Evidencia de despliegue:
 ![Evidencia_Deployment.png](../../assets/chapter5/Evidencia_Deployment.png)
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección se presentan las evidencias de colaboración del equipo durante el sprint 1 para el desarrollo de la landing page.
 
@@ -320,7 +321,7 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2
 
 <table>
 <tr>
@@ -372,7 +373,7 @@ historial de servicios, agenda de reservas y sistema de reseñas.
 </tr>
 </table>
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.2. Aspect Leaders and Collaborators
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1: User | Aspect 2: Work | Aspect 3: Reporte |
 |------------------------------------|-----------------|----------------|----------------|-------------------|
@@ -382,7 +383,7 @@ historial de servicios, agenda de reservas y sistema de reseñas.
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L              | C              | C                 |
 | Duran Santander, Emilia            | emiliadurans    | C              | L              | C                 |
 
-#### 5.2.2.3. Sprint Backlog 2.
+#### 5.2.2.3. Sprint Backlog 2
 
 | User Story |           Work-Item / Task           |  Id | Title                             | Description                                                       | Estimation (Hours) |   Assigned To   | Status |
 | :--------: | :----------------------------------: | :-: | :-------------------------------- | :---------------------------------------------------------------- | :----------------: |:---------------:|:------:|
@@ -415,7 +416,7 @@ historial de servicios, agenda de reservas y sistema de reseñas.
 |            |                                      | T32 | Publicación de reseña             | Actualizar lista de reseñas sin recargar página.                  |          4         |   Jorge Taipe   |  Done  |
 |            |                                      | T33 | Pruebas de reseñas                | Validar flujo de envío y actualización.                           |          3         |   Jorge Taipe   |  Done  |
 
-#### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review
 
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del frontend de la organización de GitHub.
@@ -430,7 +431,7 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 | WASwarm1/chambapro-frontend  | user   | 0938ba9   | feat: add HistoryServicesPage entity, assembler, Card, api, list                      |                     | 06/10/2025         |
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 En este sprint se implementaron las siguientes funcionalidades en el frontend de ChambaPro:
 ![TechSearchFront.png](../../assets/chapter5/TechSearchFront.png)
@@ -438,14 +439,14 @@ En este sprint se implementaron las siguientes funcionalidades en el frontend de
 ![HistoryServiceFront.png](../../assets/chapter5/HistoryServiceFront.png)
 ![AgendaFront.png](../../assets/chapter5/AgendaFront.png)
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el desarrollo del frontend de ChambaPro, se utilizó un JSON Server como una API falsa con el
 cual se simularon las interacciones con un backend real. Este enfoque permitió desarrollar y probar las funcionalidades 
 del frontend de manera eficiente sin depender de un backend completamente implementado. Después de finalizar el desarrollo del frontend, 
 se utilizó un mockup api deploy para simular las respuestas del backend y asegurar que el frontend funcionara correctamente.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 **Frontend Web Application:**
 
@@ -465,7 +466,7 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 
 ![DeployFront.png](../../assets/chapter5/DeployFront.png)
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 En esta sección se presentan las evidencias de colaboración del equipo durante el sprint 2 para el desarrollo del frontend de ChambaPro.
 Cada miembro del equipo tuvo roles específicos, pero todos colaboraron en la planificación, desarrollo y revisión del trabajo.
@@ -477,8 +478,8 @@ A continuación, se muestran algunos insights del repositorio de GitHub:
 
 ![Team_Collaboration_Sprint2.png](../../assets/chapter5/Team_Collaboration_Sprint2.png)
 
-### 5.2.3 Sprint 3
-#### 5.2.3.1.Spring Planning 3.
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Spring Planning 3
 
 <table>
 <tr>
@@ -528,7 +529,7 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 </tr>
 </table> 
 
-#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.2. Aspect Leaders and Collaborators
 
 | Team member (LastName, First Name) | GitHub UserName | Aspect 1:  IAM | Aspect 2:   User | Aspect 3: Reservation | Aspect 4: Review | Aspect 5: Service | 
 |------------------------------------|-----------------|----------------|------------------|-----------------------|------------------|-------------------|
@@ -536,9 +537,7 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 | Jorge Franciscoz Taipe Sangama     | CamotinFurious  | C              | C                | C                     | L                | C                 |   
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  | C              | L                | C                     | C                | C                 | 
 
-
-
-#### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.3. Sprint Backlog 3
 
 | User Story |                Work-Item / Task                 |  Id  | Title                                                            | Description                                                                                          | Estimation (Hours)   | Assigned To     | Status |
 |:----------:|:-----------------------------------------------:|:----:|:-----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:--------------------:|:---------------:|:------:|
@@ -680,7 +679,7 @@ Creemos que al completar este sprint, ChambaPro tendrá una arquitectura complet
 |            |                                                 | T136 | Implementar endpoint GET /review/technician/{technicianId}       | Crear endpoint público o protegido                                                                   |          2           | Jorge Taipe     | To do  |
 |            |                                                 | T137 | Pruebas de consulta de reseñas                                   | Verificar obtención correcta de reseñas por técnico                                                  |          2           | Jorge Taipe     | To do  |
 
-#### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.4. Development Evidence for Sprint Review
 
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
 Estos commits provienen del repositorio del backend de la organización de GitHub.
@@ -742,15 +741,17 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 | WASwarm1/chambapro-platform  | dev      | f636ecf   | feat: implement internationalization for controllers (Reservation, Review, User) |                     | 07/11/2025         |
 | WASwarm1/chambapro-platform  | dev      | 2eee77f   | feat: add i18n (csproj)                                                          |                     | 07/11/2025         |
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
-#### 5.2.3.5.Execution Evidence for Sprint Review.
 En este sprint se implementaron las siguientes funcionalidades en el frontend de ChambaPro:
+
 ![Auth_Cliente.png](../../assets/chapter5/Auth_Cliente.png)
+
 ![Auth_CTecnico.png](../../assets/chapter5/Auth_CTecnico.png)
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Durante el sprint 3, se utilizó Swagger para documentar los servicios implementados en el backend de ChambaPro. A continuación, se presentan capturas de pantalla de la documentación generada por Swagger para los principales servicios desarrollados en este sprint.
-
 
 | Service Name                 | HTTP Method | Endpoint                                             | Description                                                                                                                                                     |
 |------------------------------|-------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -781,7 +782,8 @@ Durante el sprint 3, se utilizó Swagger para documentar los servicios implement
 | **Reviews Service**          | GET         | /api/v1/review/technician/{technicianId}             | Obtiene todas las reseñas y calificaciones asociadas a un técnico específico para mostrar en su perfil.                                                         |
 |                              | POST        | /api/v1/review                                       | Crea una nueva reseña para un técnico con calificación (1-5) y comentario del cliente. Valida que el rating esté en el rango válido.                            |
 
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
 **Frontend Web Application:**
 
 El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de despliegue optimizada para aplicaciones frontend.
@@ -803,7 +805,6 @@ El frontend de ChambaPro fue desplegado utilizando **Vercel**, una plataforma de
 El backend se desplegó utilizando la plataforma Azure App Service.
 Pasos de despliegue:
 
-
 1. Verificar que el proyecto esté completado en la rama main.
 2. Crear una cuenta en Azure e iniciar sesión mediante Azure CLI (az login).
 3. Crear un grupo de recursos en Azure desde el portal o CLI.
@@ -817,12 +818,11 @@ URL deployado: https://wa-swarm-2025-20-d3hac9guatdxfyby.brazilsouth-01.azureweb
 
 Url deployado: https://wasarwm-chambapro.com/tos
 
-
-
 ![Software_Deployment_Evidence_Azure.png](../../assets/chapter5/Software_Deployment_Evidence_Azure.png)
 
 ![Github_Evidence_Deployment.png](../../assets/chapter5/Github_Evidence_Deployment.png)
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 3 para el desarrollo del backend de ChambaPro.
 
@@ -834,25 +834,43 @@ Repositorio del backend: [Backend](https://github.com/WASwarm1/chambapro-platfor
 
 ![firefox_JMLiNK32TI.jpg](../../assets/chapter5/firefox_JMLiNK32TI.jpg)
 
-## 5.3. Validation Interviews.
+### 5.2.4. Sprint 4
 
-### 5.3.1. Diseño de Entrevistas.
+#### 5.2.4.1. Sprint Planning 4
 
-### 5.3.2. Registro de Entrevistas.
+#### 5.2.4.2. Aspect Leaders and Collaborators
 
-### 5.3.3. Evaluaciones según heurísticas.
+#### 5.2.4.3. Sprint Backlog 4
 
-## 5.4. Video About-the-Product.
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 ## Conclusiones.
 
-### Conclusiones Y Recomendaciones.
+### Conclusiones Y Recomendaciones
 
-### Video About-the-Team.
+### Video About-the-Team
 
-## Bibliografía.
+## Bibliografía
 
-## Anexos.
+## Anexos
 
 ### VIDEOS:
 
