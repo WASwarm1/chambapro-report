@@ -838,7 +838,60 @@ Repositorio del backend: [Backend](https://github.com/WASwarm1/chambapro-platfor
 
 #### 5.2.4.1. Sprint Planning 4
 
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-11-27</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">12:00</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">via Google Meets</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Werner Lang</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Werner Khalil Lang Nassi, Jorge Francisco Taipe Sangama, Matias Gabriel Armestar Heredia</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  4 Review Summary</td>
+    <td colspan="8">En este cuarto sprint, se planificaron las tareas a realizar para el desarrollo la optimización tanto del Frontend como del Backend, al igual que establecer fechas para la entrga con la finalidad de reservar tiempo para el despliegue. </td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del Frontend y Backend.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">
+Nuestro objetivo será el optimizar lo desarrollado en anteriormente para así poder desplegar el Frontend y Backend de ChambaPro, asegurando una integración fluida entre los dos apartados.
+Creemos que al concluir el presente sprint, ChambaPropermitirá a los usuarios interactuar con la plataforma de manera libre y efectiva.
+</td>
+</tr>
+</table> 
+
 #### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Report | Aspect 2: Frontend | Aspect 3: Backend |
+|------------------------------------|-----------------|------------------|--------------------|-------------------|
+| Lang Nassi, Werner Khalil          | 00WernerLang    | C                | L                  | L                 |
+| Jorge Franciscoz Taipe Sangama     | CamotinFurious  | L                | C                  | C                 |  
+| Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L                | C                  | C                 |
 
 #### 5.2.4.3. Sprint Backlog 4
 
