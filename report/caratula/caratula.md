@@ -19,16 +19,17 @@
 | Armestar Heredia, Matias Gabriel | U20221A553       |
 | Durán Santander, Emilia Mercedes | U201914541       |
 
-Ciclo: 2025-20
+Periodo: 2025-20
 
 # Registro de versiones del informe
 
-| Versión | Fecha      | Autor                                                                                                                                                 |  Descripción de la modificación                     |
-|---------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 0.1     | 2025-08-25 | Lang Nassi, Werner Khalil                                                                                                                             | Creación del documento y estructura inicial         |
-| 1.0     | 2025-09-18 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel - Durán Santander, Emilia Mercedes | Desarrollo del Informe y Landing Page               |
-| 2.0     | 2025-10-08 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel                                    | Actualización del Informe y desarrollo del Frontend |
-| 3.0     | 2025-11-15 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Armestar Heredia, Matias Gabriel                                                         | Actualización del Informe y desarrollo del Backend  |
+| Versión | Fecha      | Autor                                                                                                                                                 | Descripción de la modificación                                             |
+|---------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 0.1     | 2025-08-25 | Lang Nassi, Werner Khalil                                                                                                                             | Creación del documento y estructura inicial                                |
+| 1.0     | 2025-09-18 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel - Durán Santander, Emilia Mercedes | Desarrollo del Informe y Landing Page                                      |
+| 2.0     | 2025-10-08 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Ortega Muñoz, Saul - Armestar Heredia, Matias Gabriel                                    | Actualización del Informe y desarrollo del Frontend                        |
+| 3.0     | 2025-11-15 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Armestar Heredia, Matias Gabriel                                                         | Actualización del Informe y desarrollo del Backend                         |
+| 4.0     | 2025-12-03 | Lang Nassi, Werner Khalil - Taipe Sangama, Jorge Francisco - Armestar Heredia, Matias Gabriel                                                         | Actualización del Informe, despliegue y unificación del Frontend y Backend |
 
 # Project Report Collaboration Insights
 #### Repositorio del informe del proyecto 
@@ -39,11 +40,7 @@ Enlace al repositorio: https://github.com/WASwarm1/final-report
 
 #### Desarrollo del informe
 
-Para la tercera entrega (TB2), se trabajó la estructura inicial del informe, 
-definiendo las secciones principales y asignando responsabilidades 
-a cada miembro del equipo para completar las diferentes partes del documento. 
-Se estableció un calendario de trabajo para asegurar que todas las secciones 
-fueran revisadas y completadas a tiempo.
+Para la cuarta y última entrega (TF1), se trabajó la estructura inicial del informe, definiendo las secciones principales y asignando responsabilidades a cada miembro del equipo para completar las diferentes partes del documento. Se estableció un calendario de trabajo para asegurar que todas las secciones fueran revisadas y completadas a tiempo.
 
 #### Evidencia de colaboración:
 
