@@ -894,8 +894,43 @@ Creemos que al concluir el presente sprint, ChambaPropermitirá a los usuarios i
 | Armestar Heredia, Matias Gabriel   | MatiasArmestar  | L                | C                  | C                 |
 
 #### 5.2.4.3. Sprint Backlog 4
-
+ 
 #### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se demuestran los commits relacionados a verificaciones y refacciones en la parte de Back-end y el Front-End.
+Estos commits provienen del repositorio del backend y del frontend de la organización de GitHub.
+
+**Enlace al repositorio del backend:** [Backend](https://github.com/WASwarm1/chambapro-platform)
+**Enlace al repositorio del frontend:** [Frontend](https://github.com/WASwarm1/chambapro-frontend)
+
+| Repository                   | Branch | Commit Id | Commit Message                                                           | Commit Message Body | Commited on (Date) |
+|------------------------------|--------|-----------|--------------------------------------------------------------------------|---------------------|--------------------|
+| WASwarm1/chambapro-platform  | main   | 6a24433   | fix: import of localizer                                                 |                     | 08/11/2025         |
+| WASwarm1/chambapro-platform  | main   | 070e743   | fix: incorrect var types and add deployed db                             |                     | 12/11/2025         |
+| WASwarm1/chambapro-platform  | main   | ab7b0d3   | fix: db creation issues                                                  |                     | 12/11/2025         |
+| WASwarm1/chambapro-platform  | main   | 0559fdd   | fix(review): delete dummy.cs                                             |                     | 14/11/2025         |
+| WASwarm1/chambapro-platform  | main   | 330e9f1   | Add or update the Azure App Service build and deployment workflow config |                     | 14/11/2025         |
+| WASwarm1/chambapro-platform  | main   | 99a01c7   | Merge remote-tracking branch 'origin/main'                               |                     | 14/11/2025         |
+| WASwarm1/chambapro-platform  | main   | d102c3c   | feat(program.cs): url                                                    |                     | 15/11/2025         |
+| WASwarm1/chambapro-platform  | main   | a5d5602   | fix(docker): user                                                        |                     | 15/11/2025         |
+| WASwarm1/chambapro-platform  | main   | b8c9ea2   | Fix: allow Dockerfile in build context                                   |                     | 15/11/2025         |
+| WASwarm1/chambapro-platform  | main   | 809d773   | fix(): cleanig code                                                      |                     | 15/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | c6577f2   | feat: add ChambaPro logo                                                 |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 00752f7   | fix: delete unused file                                                  |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 0608a1f   | fix: update page tab image url                                           |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | b9c8757   | fix: change techsearch path to tech-search                               |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 2f71ddd   | feat: add hello i18n message                                             |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | be2fb87   | fix: update logo url                                                     |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | fd335a7   | feat: add client and technician navbar                                   |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 9913f2d   | fix: delete unused file                                                  |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 79eb54f   | fix: delete unused file                                                  |                     | 27/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | d75c527   | fix: update technician search path                                       |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 3ae319c   | fix: update technician search path                                       |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | f88a0c1   | fix: correct import path                                                 |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 0608b2e   | fix: correct component name                                              |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 1b94833   | fix: correct component path                                              |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | 7635919   | fix: correct component name                                              |                     | 28/11/2025         |
+| WASwarm1/chambapro-frontend  | main   | da7128f   | fix: update component path                                               |                     | 28/11/2025         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
