@@ -988,6 +988,15 @@ Url deployado: https://wasarwm-chambapro.com/tos
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 3 para el desarrollo del backend de ChambaPro.
+- Werner Lang: .
+- Jorge Taipe: Deployment en Railway.
+- Matias Armestar: Mejoras visuales en el front-end.
+![Front-endContribuitors.png](../../assets/chapter5/Front-endContribuitors.png)
+
+![PlatformContribuitors.png](../../assets/chapter5/PlatformContribuitors.png)
+
+Repositorio del backend: [Backend](https://github.com/WASwarm1/chambapro-platform) 
 ## 5.3. Validation Interviews
 
 Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
