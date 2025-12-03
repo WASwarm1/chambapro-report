@@ -1259,6 +1259,8 @@ Finalmente, se sugiere priorizar el uso de versiones de software estables y de s
 
 ### Video About-the-Team
 
+URL en OneDrive: [OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBxDtkq_LJeQqGi61YM0xASAZyxztnU9zLZuY4n8SRXs_A)  
+
 ## Bibliografía
 
 <ul>
