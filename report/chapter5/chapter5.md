@@ -933,7 +933,16 @@ Estos commits provienen del repositorio del backend y del frontend de la organiz
 | WASwarm1/chambapro-frontend  | main   | da7128f   | fix: update component path                                               |                     | 28/11/2025         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+Para Tecnicos:
 
+![TechnicianAgenda.png](../../assets/chapter5/TechnicianAgenda.png)
+![TechnicianStatistics.png](../../assets/chapter5/TechnicianStatistics.png)
+![TechnicianRegister.png](../../assets/chapter5/TechnicianRegister.png)
+
+Para clientes:
+
+![HireTechnician.png](../../assets/chapter5/HireTechnician.png)
+![ClientHistoryHire.png](../../assets/chapter5/ClientHistoryHire.png)
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
