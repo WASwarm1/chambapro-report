@@ -948,22 +948,45 @@ Estos commits provienen del repositorio del backend y del frontend de la organiz
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**Las 10 Heurísticas de Nielsen**
+Las heurísticas de Nielsen son diez principios generales del diseño de interfaces digitales basados ​​en los problemas que enfrentan los usuarios reales al utilizar sistemas digitales.
+
+**Resumen aplicado a nuestro proyecto**
+
+| Heurística                                                  | Evaluación |
+|-------------------------------------------------------------|------------|
+| **Visibility of System Status**                             |            |
+| **Match Between the System and the Real World**             |            |
+| **User Control and Freedom**                                |            |
+| **Consistency and Standards**                               |            |
+| **Error Prevention**                                        |            |
+| **Recognition Rather than Recall**                          |            |
+| **Flexibility and Efficiency of Use**                       |            |
+| **Aesthetic and Minimalist Design**                         |            |
+| **Help Users Recognize, Diagnose, and Recover from Errors** |            |
+| **Help and Documentation**                                  |            |
+
 ## 5.4. Video About-the-Product
 
 Como último artefacto del proyecto desarrollado, se ha desarrollado un video con orientación promocional e informativa, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo.  
 
 ![chambapro_about_the_product_thumbnail.png](../../assets/chapter5/chambapro_about_the_product_thumbnail.png)  
 
+**URL en OneDrive:** [OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBxDtkq_LJeQqGi61YM0xASAZyxztnU9zLZuY4n8SRXs_A)  
 **URL en YouTube:** [YouTube](https://youtu.be/8R371itvf10)  
-**URL en OneDrive:** [OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBxDtkq_LJeQqGi61YM0xASAZyxztnU9zLZuY4n8SRXs_A)
 
-## Conclusiones.
+## Conclusiones
 
 ### Conclusiones Y Recomendaciones
 
 ### Video About-the-Team
 
 ## Bibliografía
+
+<ul>
+  <li>Nielsen, J. (1994, Abril 24). <em>10 Usability Heuristics for User Interface Design</em>. <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a></li>  
+  <li>The Decision Lab. (s.f.). <em>Nielsen’s Heuristics</em>. <a href="https://thedecisionlab.com/reference-guide/design/nielsens-heuristics" target="_blank">https://thedecisionlab.com/reference-guide/design/nielsens-heuristics</a></li>
+</ul>
 
 ## Anexos
 
@@ -974,7 +997,8 @@ Como último artefacto del proyecto desarrollado, se ha desarrollado un video co
 | Video de exposición TB1 | Exposición grupal de la primera entrega desarrollada | [Exposición TB1](https://upcedupe-my.sharepoint.com/personal/u202310003_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310003%5Fupc%5Fedu%5Fpe%2FDocuments%2FApp%20Web%2Fupc%2Dpre%2D202510%2D1asi0730%2D7426%2DWASwarm%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edd12a0a4%2D757f%2D4213%2Db76f%2D174ce94a7d11)                                                                                                                                                                       |   
 | Video de exposición TP1 | Exposición grupal de la segunda entrega desarrollada | [Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/EX7HCAaRX8xKi_0TJxe4qdABjvO47JqAI3R5IAC7OvksTg) |
 | Video de exposición TB2 | Exposición grupal de la tercera entrega desarrollada | [Exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBZtZGpbTLdTI0SkOZoJnjIAcaWGOohiqkm_w1C5scoVsU) |
-| Video de entrevistas    | Entrevistas realizadas a los clientes y tecnicos     | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBXpZs15wT-SKTC2jyGVduMAWXOW8pFokc11IVDV821Bc0) |                                                                                                                                        
+| Video de entrevistas    | Entrevistas realizadas a los clientes y tecnicos     | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBXpZs15wT-SKTC2jyGVduMAWXOW8pFokc11IVDV821Bc0) |  
+| Video About-the-Product | Video con orientación promocional e informativa de ChambaPro | [About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a553_upc_edu_pe/IQBxDtkq_LJeQqGi61YM0xASAZyxztnU9zLZuY4n8SRXs_A) |  
 
 ### UX/UI:
 
@@ -991,4 +1015,3 @@ Como último artefacto del proyecto desarrollado, se ha desarrollado un video co
 | Fillout              | Enlace a las respuestas del fillout      | [Fillout](https://build.fillout.com/join/Jup4WMG5GJc6PEuItGJeYvYmLTemgHXL4XbH3iYA2sUGX0tDFkD0Cti4pof2pCV6) |
 | Frontend             | Enlace al repositorio del frontend       | [Frontend](https://github.com/WASwarm1/chambapro-frontend)                                                 |
 | Backend              | Enlace al repositorio del backend        | [Backend](https://github.com/WASwarm1/chambapro-platform)                                                  |
-
