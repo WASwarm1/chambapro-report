@@ -988,10 +988,10 @@ Url deployado: https://wasarwm-chambapro.com/tos
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 3 para el desarrollo del backend de ChambaPro.
-- Werner Lang: .
-- Jorge Taipe: Deployment en Railway.
-- Matias Armestar: Mejoras visuales en el front-end.
+A continuación, se presentan las evidencias de colaboración del equipo durante el sprint 4 para el desarrollo del backend de ChambaPro.
+- Werner Lang: Implemento mejoras sustanciales en el frontend y backend y el deployment.
+- Jorge Taipe: Verificacion y Deployment en Railway.
+- Matias Armestar: Mejoras visuales en el front-end y realizacion de el deployment.
 ![Front-endContribuitors.png](../../assets/chapter5/Front-endContribuitors.png)
 
 ![PlatformContribuitors.png](../../assets/chapter5/PlatformContribuitors.png)
