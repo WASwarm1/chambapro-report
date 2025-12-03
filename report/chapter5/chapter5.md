@@ -944,14 +944,33 @@ Estos commits provienen del repositorio del backend y del frontend de la organiz
 
 ### 5.3.1. Diseño de Entrevistas
 
+A continuación, se presentan las preguntas para las entrevistas a realizar. 
+
+1. **Datos generales**
+   - ¿Cuál es tu nombre?
+   - ¿Qué edad tienes?
+   - ¿Dónde vives actualmente?
+   - ¿A qué te dedicas?
+
+2. **Percepción del aplicativo**
+    - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+    - Qué opinas sobre el diseño de nuestro panel de control y las múltiples herramientas que ofrece?
+    - ¿Qué funcionalidades le agregarías a la aplicación?
+    - ¿En algún momento sentiste que no sabías qué estaba pasando dentro de la app?
+    - ¿Qué parte del uso de la app se te hizo más lenta o repetitiva?
+    - ¿Te parece que la interfaz está cargada de información o elementos innecesarios?
+    - ¿Consideras que la aplicación necesita una guía o tutorial inicial?
+    - ¿Hay alguna cosa que le quitarías a la aplicación?
+    - ¿Hubo términos o iconos que no comprendiste de inmediato?
+    - Como (segmento objetivo), ¿tienes alguna recomendación que ayude a mejorar la experiencia de uso?
+
 ### 5.3.2. Registro de Entrevistas
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-**Las 10 Heurísticas de Nielsen**
-Las heurísticas de Nielsen son diez principios generales del diseño de interfaces digitales basados ​​en los problemas que enfrentan los usuarios reales al utilizar sistemas digitales.
+**Las 10 Heurísticas de Nielsen** son principios generales del diseño de interfaces digitales basados ​​en los problemas que enfrentan los usuarios reales al utilizar sistemas de este tipo.  
 
-**Resumen aplicado a nuestro proyecto**
+**Resumen aplicado a nuestro proyecto**  
 
 | Heurística                                                  | Evaluación |
 |-------------------------------------------------------------|------------|
