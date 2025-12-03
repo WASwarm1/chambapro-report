@@ -942,29 +942,73 @@ Estos commits provienen del repositorio del backend y del frontend de la organiz
 
 ## 5.3. Validation Interviews
 
+Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
+
 ### 5.3.1. Diseño de Entrevistas
 
-A continuación, se presentan las preguntas para las entrevistas a realizar. 
+#### Segmento 1: Tecnicos
+Para el segmento objetivo Tecnicos, se diseñó una sesión de validación centrada en evaluar la utilidad, claridad y funcionalidad de la solución propuesta. La entrevista incluyó una interacción
+guiada con la Landing Page y con la aplicación web funcional desplegada. A continuación, se detallan los elementos incluidos y los flujos validados durante la sesión:
 
-1. **Datos generales**
-   - ¿Cuál es tu nombre?
-   - ¿Qué edad tienes?
-   - ¿Dónde vives actualmente?
-   - ¿A qué te dedicas?
+Elementos incluidos en la sesión:
+Landing Page: El entrevistado navegó por todas las secciones informativas, incluyendo descripciones de beneficios y funcionalidades de la solución. Se resaltaron elementos visuales, testimonios y comparaciones con métodos tradicionales.
 
-2. **Percepción del aplicativo**
-    - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-    - Qué opinas sobre el diseño de nuestro panel de control y las múltiples herramientas que ofrece?
-    - ¿Qué funcionalidades le agregarías a la aplicación?
-    - ¿En algún momento sentiste que no sabías qué estaba pasando dentro de la app?
-    - ¿Qué parte del uso de la app se te hizo más lenta o repetitiva?
-    - ¿Te parece que la interfaz está cargada de información o elementos innecesarios?
-    - ¿Consideras que la aplicación necesita una guía o tutorial inicial?
-    - ¿Hay alguna cosa que le quitarías a la aplicación?
-    - ¿Hubo términos o iconos que no comprendiste de inmediato?
-    - Como (segmento objetivo), ¿tienes alguna recomendación que ayude a mejorar la experiencia de uso?
+Aplicación Web: Se presentó una versión desplegada de la app, permitiendo al entrevistado explorar cada uno de los módulos principales.
+
+User Flows validados:   
+Login:  
+Visualización de acceso a la plataforma.
+
+Register:   
+Visualización de registro en la plataforma.
+
+Dashboard de estadisticas:  
+Visualización de gráficos de ganancias . Revisión de los ganacioas en el periodo de un mes.     
+Visualización de gráficos de calificaciones.    
+Visualizacion del numero de servicios realizados.
+
+Dashboard de Agenda de Reservas:
+
+Visualización de reservas hechas por los clientes.
+La entrevista permitió observar la interacción real del usuario con los distintos módulos, validar la coherencia del flujo general de uso, y recoger impresiones cualitativas sobre la experiencia ofrecida por la solución.
+
+Durante la sesión, se realizaron preguntas clave para explorar la percepción del usuario y validar hipótesis del producto:
+
+¿Qué características de la aplicación web usaría en su día a día?   
+¿Qué características le parecen más relevantes o útiles?    
+¿Considera que es importante la pantalla de gráficos? ¿Por qué?
+¿Implementaría este sistema en su trabajo actual?   
+Estas preguntas fueron diseñadas para detectar qué funcionalidades generan más valor, cuáles podrían mejorarse, y si el sistema realmente resuelve problemas del día a día en la gestión operativa del restaurante.
 
 ### 5.3.2. Registro de Entrevistas
+
+#### Segmento 1: Tecnicos
+
+- _Entrevista 1:_
+
+
+| Nombre               | Limber     |
+|----------------------|------------|
+| Apellido             | Vasquez    |
+| Edad                 | 24         |
+| Distrito             | Chorrillos |
+| Evidencia            | []()       |
+| Url                  | []()       |
+| Inicio de entrevista | 00:00      |    
+| Fin de entrevista    | 00:00      |
+
+- Distrito de residencia: Chorrillos
+- Estado civil: Soltero
+- Ocupación: Técnico en Gasfiteria
+- Dispositivo de preferencia: Caja de Herramientas
+- Canales de interacción digital: WhatsApp, Facebook
+
+Resumen:
+Denilson es un técnico gasfitero (plomero) altamente experimentado e independiente con 15 años en el oficio.
+Se enorgullece de su honestidad, puntualidad y la calidad de su trabajo, ofreciendo garantías para construir confianza a largo plazo con sus clientes.
+Como su propio jefe, disfruta de la libertad de manejar su horario, pero lucha con la naturaleza impredecible de sus ingresos y los desafíos de competir con la mano de obra informal de bajo costo.
+Denilson es un solucionador de problemas práctico que depende en gran medida de su smartphone para gestionar sus operaciones diarias, desde la coordinación con clientes vía WhatsApp hasta la navegación por la ciudad.
+Aunque ha construido su negocio en base a recomendaciones de boca en boca, está abierto y deseoso de adoptar nuevas herramientas digitales que puedan proporcionarle un flujo de trabajo más estable, conectarlo con clientes serios y ayudarlo a construir una reputación profesional verificable en línea.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
