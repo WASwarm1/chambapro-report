@@ -943,10 +943,37 @@ Para clientes:
 
 ![HireTechnician.png](../../assets/chapter5/HireTechnician.png)
 ![ClientHistoryHire.png](../../assets/chapter5/ClientHistoryHire.png)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante el sprint 4, se utilizó Railway para documentar los servicios implementados en el backend de ChambaPro ademas unirlo con el Front-end de Chambapro. 
 
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Frontend Web Application:
+El frontend de ChambaPro fue desplegado utilizando Vercel, una plataforma de despliegue optimizada para aplicaciones frontend.
+Pasos para el despliegue:
+1. Creación del repositorio: Se creó un repositorio en la organización de GitHub llamado chambapro-frontend.
+2. Desarrollo del frontend: El código fuente del frontend se desarrolló y organizó en el repositorio.
+3. Conexión con Vercel: Se conectó el repositorio de GitHub con Vercel para habilitar despliegues automáticos.
+4. Configuración de despliegue: Se configuró Vercel para desplegar automáticamente el frontend cada vez que se realizara un push a la rama main.
+5. Verificación del despliegue: Se verificó que la aplicación estuviera accesible públicamente y funcionara correctamente en diferentes dispositivos y navegadores.
+   Repositorio: https://github.com/WASwarm1/chambapro-frontend
+   URL desplegada:
+   Cliente: https://chambapro-frontend-iota.vercel.app/client/techsearch
+   Técnico: https://chambapro-frontend-iota.vercel.app/tech/agenda
+
+   Backend Web Service
+   El backend se desplegó utilizando la plataforma Railway. Pasos de despliegue:
+1. Verificar que el proyecto esté completado en la rama main.
+2. Crear una cuenta en Railway e iniciar sesión con Github account (Auth Github).
+3. Elegir el repositorio a deployment en Railway desde el portal .
+4. Crear variables personalizadas para nuestro backend.
+5. Asegúrate de que el "Builder" (Modo de despliegue) esté configurado como la opcion de Dockerfile y con el PATH correcto del archivo Dockerfile.
+6. Probar el servicio en la URL pública proporcionada por Railway.
+   Respositorio https://github.com/WASwarm1/chambapro-platform
+   URL deployado: https://chambapro-platform-production.up.railway.app/swagger/index.html
+   Url deployado: https://wasarwm-chambapro.com/tos
+7. 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
