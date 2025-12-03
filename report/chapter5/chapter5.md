@@ -1044,15 +1044,15 @@ Estas preguntas fueron diseñadas para detectar qué funcionalidades generan má
 - _Entrevista 1:_
 
 
-| Nombre               | Limber     |
-|----------------------|------------|
-| Apellido             | Vasquez    |
-| Edad                 | 24         |
-| Distrito             | Chorrillos |
-| Evidencia            | []()       |
-| Url                  | []()       |
-| Inicio de entrevista | 00:00      |    
-| Fin de entrevista    | 00:00      |
+| Nombre               | Denilson                                                                                                                                                                                                                                                                                                                              |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Vasquez                                                                                                                                                                                                                                                                                                                               |
+| Edad                 | 24                                                                                                                                                                                                                                                                                                                                    |
+| Distrito             | Chorrillos                                                                                                                                                                                                                                                                                                                            |
+| Evidencia            | ![evidence1.png](../../assets/chapter5/evidence1.png)                                                                                                                                                                                                                                                                                 |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/IQAGLVqZb0uRQ4yuV3EcBFZjAartowQMTfm64miCR6R00QQ?e=naE6QV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 00:16                                                                                                                                                                                                                                                                                                                                 |    
+| Fin de entrevista    | 08:35                                                                                                                                                                                                                                                                                                                                 |
 
 - Distrito de residencia: Chorrillos
 - Estado civil: Soltero
@@ -1067,6 +1067,26 @@ Como su propio jefe, disfruta de la libertad de manejar su horario, pero lucha c
 Denilson es un solucionador de problemas práctico que depende en gran medida de su smartphone para gestionar sus operaciones diarias, desde la coordinación con clientes vía WhatsApp hasta la navegación por la ciudad.
 Aunque ha construido su negocio en base a recomendaciones de boca en boca, está abierto y deseoso de adoptar nuevas herramientas digitales que puedan proporcionarle un flujo de trabajo más estable, conectarlo con clientes serios y ayudarlo a construir una reputación profesional verificable en línea.
 
+- _Entrevista 2:_
+
+| Nombre               | Keith                                                                                                                                                                                                                                                                                                                                 |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Torres                                                                                                                                                                                                                                                                                                                                |
+| Edad                 | 21                                                                                                                                                                                                                                                                                                                                    |
+| Distrito             | Barranco                                                                                                                                                                                                                                                                                                                              |
+| Evidencia            | ![evidence2.png](../../assets/chapter5/evidence2.png)                                                                                                                                                                                                                                                                                 |
+| Url                  | [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313458_upc_edu_pe/IQAGLVqZb0uRQ4yuV3EcBFZjAartowQMTfm64miCR6R00QQ?e=naE6QV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Inicio de entrevista | 08:50                                                                                                                                                                                                                                                                                                                                 |    
+| Fin de entrevista    | 12:40                                                                                                                                                                                                                                                                                                                                 |
+
+- Distrito de residencia: Barranco
+- Estado civil: Soltero
+- Ocupación: Técnico en Electricista
+- Dispositivo de preferencia: Termoregulador
+- Canales de interacción digital: WhatsApp, Facebook
+
+Resumen:
+En el video se presenta una entrevista de validación de usuario para la plataforma "ChambaPro", realizada por un desarrollador a Keith Torres, un técnico electricista con cuatro años de experiencia. La sesión comienza con una demostración guiada del proceso de registro, donde se configuran datos clave como la especialidad, la formación técnica y una tarifa por hora de 20 soles; Keith califica esta etapa inicial como intuitiva y fácil de comprender. Posteriormente, revisan la "Agenda de Reservas", una funcionalidad que el usuario considera crucial para organizar sus tiempos y gestionar eficazmente las citas con los clientes. Sin embargo, el aspecto más destacado para el entrevistado fue el panel de "Estadísticas". Keith expresó gran interés en esta sección, valorando la capacidad de visualizar métricas concretas como sus ingresos totales, calificación promedio y el número de servicios completados, ya que esto le permitiría tener un mejor control sobre su desempeño profesional. La entrevista concluye con una validación muy positiva: Keith confirma que la plataforma es una herramienta práctica que definitivamente utilizaría en su vida diaria para profesionalizar su trabajo y optimizar su gestión económica.
 ### 5.3.3. Evaluaciones según heurísticas
 
 Se ha recibido un análisis de la plataforma desarrollada por parte del equipo de [FitConnect](https://github.com/1ASI0730-2520-7426-Grupo3), desarrolladores de la plataforma **CoolGym**.
@@ -1226,8 +1246,16 @@ Como último artefacto del proyecto desarrollado, se ha desarrollado un video co
 **URL en YouTube:** [YouTube](https://youtu.be/8R371itvf10)  
 
 ## Conclusiones
+El despliegue de la plataforma ChambaPro en la nube ha sido un éxito total. La aplicación ya se encuentra operativa y accesible públicamente, habiendo superado los desafíos de configuración inicial. Esto confirma que la base del proyecto es sólida y que la integración con la base de datos funciona correctamente en un entorno real, permitiendo que la información fluya sin problemas entre el servidor y los usuarios finales, más allá de las pruebas en equipos locales.
+
+Además, la estructura interna del proyecto ha demostrado ser coherente y compatible. Los diferentes módulos del sistema se comunican entre sí de manera fluida, lo que valida el diseño elegido y facilita la expansión futura de la aplicación. A esto se suma la exitosa incorporación de capacidades para múltiples idiomas, dejando al sistema listo para escalar y atender a una audiencia más amplia sin necesidad de grandes cambios estructurales.
 
 ### Conclusiones Y Recomendaciones
+Se recomienda proteger la seguridad del proyecto gestionando las contraseñas y claves de acceso exclusivamente a través de las variables de entorno de la plataforma en la nube. Mantener estos datos sensibles fuera de los archivos de código fuente es una práctica esencial para evitar vulnerabilidades y facilitar la administración segura.
+
+Es aconsejable configurar el entorno para distinguir claramente entre el modo de "desarrollo" y "producción". Esto permite activar herramientas visuales de documentación (como Swagger) cuando el equipo necesita hacer pruebas, pero mantenerlas ocultas o protegidas cuando la aplicación está siendo utilizada por el público general, optimizando así la seguridad.
+
+Finalmente, se sugiere priorizar el uso de versiones de software estables y de soporte a largo plazo (LTS) para el desarrollo. Esto garantiza la máxima compatibilidad con los servidores en la nube, reduce la probabilidad de errores técnicos inesperados y asegura que el proyecto sea más fácil de mantener y actualizar en el futuro.
 
 ### Video About-the-Team
 
