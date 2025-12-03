@@ -1069,22 +1069,152 @@ Aunque ha construido su negocio en base a recomendaciones de boca en boca, está
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-**Las 10 Heurísticas de Nielsen** son principios generales del diseño de interfaces digitales basados ​​en los problemas que enfrentan los usuarios reales al utilizar sistemas de este tipo.  
+Se ha recibido un análisis de la plataforma desarrollada por parte del equipo de [FitConnect](https://github.com/1ASI0730-2520-7426-Grupo3), desarrolladores de la plataforma **CoolGym**.
+
+### 1. Tareas evaluadas
+
+**Perfil Cliente**
+
+- Ingresar al sistema desde la vista de **Login**.
+- Registrarse como nuevo cliente (**Sign Up**).
+- Acceder a la página principal después del registro.
+- Navegar entre las diferentes secciones de la aplicación.
+- Enviar una solicitud de servicio a un técnico desde el formulario correspondiente.
+
+**Perfil Técnico**
+
+- Ingresar al sistema desde la vista de **Login** (cambiando el tipo de usuario).
+- Navegar entre las opciones disponibles para técnicos.
+- Revisar la agenda de reservas.
+- Ver los detalles de una reserva desde la agenda.
+
+### 2. Escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                         |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial. Puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.        |
+| **2** | Problema menor. Puede ocurrir un poco más frecuentemente o es más difícil de superar para el usuario. Se le debería asignar prioridad baja para resolverlo en el siguiente release. |
+| **3** | Problema mayor. Ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante corregirlo y se le debe asignar prioridad alta.                                    |
+| **4** | Problema muy grave. Error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es importante corregirlo antes del lanzamiento.                             |
+
+### 3. Resumen de problemas encontrados
+
+| #     | Problema                                                                                        | Escala de severidad | Heurística / Principio violado                                                      |
+|-------|-------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------|
+| **1** | Vista de login poco clara respecto al tipo de usuario (cliente / técnico).                      | 2                   | Visibilidad del estado del sistema; Claridad de la navegación.                      |
+| **2** | Después del registro el sistema envía directamente a la página principal sin feedback claro.    | 2                   | Visibilidad del estado del sistema; Correspondencia con el mundo real.              |
+| **3** | Ausencia de perfil de cuenta para ambos tipos de usuarios.                                      | 2                   | Claridad y completitud de la información; Reconocimiento en lugar de recuerdo.      |
+| **4** | Falta de barra de navegación (toolbar) para moverse entre secciones.                            | 3                   | Claridad de la arquitectura de información; Control y libertad del usuario.         |
+| **5** | En el perfil Cliente, el formulario para enviar solicitud de servicio a un técnico no funciona. | 4                   | Prevención de errores; Apoyo a la recuperación; Visibilidad del estado del sistema. |
+| **6** | En el perfil Técnico, el botón “Ver detalles” de la agenda de reservas no funciona.             | 3                   | Consistencia y estándares; Prevención de errores.                                   |
+
+---
+
+### Problema #1: Vista de login poco clara respecto al tipo de usuario
+
+**Severidad:** 2
+
+**Descripción:**  
+En la pantalla de Login, la aplicación muestra por defecto el formulario para clientes. Para iniciar sesión como técnico es necesario presionar la opción “cambiar a técnico”, la cual no es suficientemente evidente. Esto puede generar confusión, especialmente en técnicos que ingresan por primera vez, ya que no queda claro qué tipo de cuenta está activa ni cómo cambiar de rol.
+
+**Recomendación:**  
+Hacer más visible la selección de tipo de usuario, por ejemplo, mediante pestañas claramente rotuladas (“Cliente” / “Técnico”) o un selector destacado que indique siempre qué rol está activo.
+
+---
+
+### Problema #2: Redirección directa a la página principal después del registro
+
+**Severidad:** 2
+
+**Descripción:**  
+Al completar el registro, el sistema permite crear la cuenta pero redirige inmediatamente a la página principal sin mostrar un mensaje claro de confirmación ni indicar que la sesión se ha iniciado. El usuario puede no entender si el registro fue exitoso o si debe volver a iniciar sesión manualmente.
+
+**Recomendación:**  
+Mostrar un mensaje o pantalla de “registro exitoso” indicando explícitamente que la sesión ya está iniciada y ofreciendo opciones como:
+
+- **Ir al inicio**
+- **Ver mi perfil**
+
+---
+
+### Problema #3: Ausencia de perfil de cuenta para ambos tipos de usuarios
+
+**Severidad:** 2
+
+**Descripción:**  
+Ni clientes ni técnicos cuentan con una sección de perfil donde puedan revisar y actualizar su información básica, como datos personales, datos del gimnasio, especialidad o contraseña. Esto obliga a depender solo de lo que el usuario recuerda, sin una vista centralizada de su cuenta.
+
+**Recomendación:**  
+Habilitar una vista de **Mi cuenta** o **Perfil** accesible desde la interfaz principal, con los datos relevantes de cada tipo de usuario y opciones para editarlos.
+
+---
+
+### Problema #4: Falta de barra de navegación (toolbar)
+
+**Severidad:** 3
+
+**Descripción:**  
+La interfaz no presenta una barra de navegación claramente definida para acceder a las principales secciones de la aplicación. Ambos perfiles deben depender de enlaces aislados o del botón “Atrás” del navegador para moverse entre pantallas, lo que dificulta entender la estructura general del sistema.
+
+**Recomendación:**  
+Incluir una barra de navegación fija con accesos a las secciones clave como:
+
+- Home  
+- Mis servicios  
+- Agenda  
+- Solicitudes  
+- Perfil  
+
+Diferenciando las opciones según el rol (cliente o técnico).
+
+---
+
+### Problema #5: El formulario de solicitud de servicio para clientes no funciona
+
+**Severidad:** 4
+
+**Descripción:**  
+En el perfil Cliente, el formulario para enviar una solicitud de servicio a un técnico no funciona correctamente. El botón no genera acción o la solicitud no se registra, lo que impide completar una tarea central del sistema.
+
+**Recomendación:**  
+Revisar la validación del formulario y el endpoint asociado, asegurando que la solicitud se registre correctamente y mostrando mensajes claros de éxito o error al usuario.
+
+---
+
+### Problema #6: El botón “Ver detalles” de la agenda de reservas de técnicos no funciona
+
+**Severidad:** 3
+
+**Descripción:**  
+En el perfil Técnico, la agenda de reservas muestra una lista de servicios, pero el botón **Ver detalles** de cada reserva no realiza ninguna acción. El técnico no puede acceder a información clave de la cita, como:
+
+- Equipo
+- Cliente
+- Horario detallado
+- Descripción del problema
+
+**Recomendación:**  
+Habilitar el botón para que abra una vista o ventana con toda la información de la reserva y permita al técnico prepararse adecuadamente.
+
+---
+
+**Las 10 Heurísticas de Nielsen**  
+Son principios generales del diseño de interfaces digitales basados ​​en los problemas que enfrentan los usuarios reales al utilizar sistemas de este tipo.  
 
 **Resumen aplicado a nuestro proyecto**  
 
-| Heurística                                                  | Evaluación |
-|-------------------------------------------------------------|------------|
-| **Visibility of System Status**                             |            |
-| **Match Between the System and the Real World**             |            |
-| **User Control and Freedom**                                |            |
-| **Consistency and Standards**                               |            |
-| **Error Prevention**                                        |            |
-| **Recognition Rather than Recall**                          |            |
-| **Flexibility and Efficiency of Use**                       |            |
-| **Aesthetic and Minimalist Design**                         |            |
-| **Help Users Recognize, Diagnose, and Recover from Errors** |            |
-| **Help and Documentation**                                  |            |
+| Heurística                                                  | Evaluación                                                                                                                                                      |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Visibility of System Status**                             | El sistema no informa claramente acciones importantes, como el éxito del registro o el envío de solicitudes. Falta retroalimentación visual en varios procesos. |
+| **Match Between the System and the Real World**             | El lenguaje en general es entendible, pero algunas acciones (como cambiar de rol en el login) no son claras ni intuitivas para el usuario.                      |
+| **User Control and Freedom**                                | Los usuarios tienen poca libertad de navegación debido a la ausencia de una barra de menú clara y deben depender del botón “atrás”.                             |
+| **Consistency and Standards**                               | Hay botones visibles que no cumplen su función (“Ver detalles”), lo que rompe la consistencia entre lo que se muestra y lo que ocurre.                          |
+| **Error Prevention**                                        | El sistema permite acciones que no funcionan (formularios y botones), en lugar de prevenir estos errores con validaciones o mensajes anticipados.               |
+| **Recognition Rather than Recall**                          | No existe una vista de perfil, obligando al usuario a recordar su información en lugar de verla reflejada en el sistema.                                        |
+| **Flexibility and Efficiency of Use**                       | La navegación limitada y la falta de accesos directos o un menú eficiente reducen la rapidez con la que el usuario puede realizar tareas.                       |
+| **Aesthetic and Minimalist Design**                         | La interfaz es simple, pero carece de elementos esenciales (como una barra de navegación bien definida).                                                        |
+| **Help Users Recognize, Diagnose, and Recover from Errors** | No se muestran mensajes claros de error o éxito cuando una acción falla, lo que dificulta que el usuario entienda qué ocurrió.                                  |
+| **Help and Documentation**                                  | No existe una sección de ayuda, guía o instrucciones para orientar al usuario dentro del sistema.                                                               |
 
 ## 5.4. Video About-the-Product
 
